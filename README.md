@@ -54,14 +54,13 @@ Corner Block 2EA
 **3. STL Fils**
 
 
-(1)ERCF OMRON switch and Neodium Magectic 
+(1)ERCF OMRON switch and Neodium Magectic
+
 https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
 
 
-(2)
+(2) Cutting lever
 
-
-(3) Cutting lever
 
 
 
