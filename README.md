@@ -88,7 +88,15 @@ Include Filament cutting macro file in printer.cfg  as below
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Filament_cutting_macro.png)
 
 
-    
-    
+
+**6. Prusa Slicer setting**
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Prusa_slicer_command.png)
+
+
+
+
+
+
 
 
