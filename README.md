@@ -51,7 +51,7 @@ https://ct5488.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000144370&NaPm=
 (4) ERCF_Cutting_lever_Touch_screw holder
 2020 Profile 50mm
 
-M5 Sprint Nun or T nut 3EA
+M5 Sprint Nun or T nut 5EA
 
 M5*30mm  1EA
 
@@ -77,7 +77,8 @@ https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
 
 
 
-(2) Cutting lever
+(2) Cutting lever V6 Heatsink stl files
+
 
 
 
@@ -85,7 +86,7 @@ https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
 
 **4. Assemble**
 
-It is important teflon tube shape becase To ensure that the filament fits properly, it is necessary to shape it.
+It is important teflon tube shape becase To ensure that the filament fits properly, it is necessary to Trumpet shape it.
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_teflon_tube_shape.jpg)
 
