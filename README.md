@@ -133,6 +133,7 @@ https://github.com/pure100kim/VORON_NOZZLE_WIPER/blob/main/README.md
 **7. Filament remove modification**
 
 Modify [gcode_macro REMOVE_FILAMENT] macro section in printer.cfg
+
 Adjust retraction lenth value This is cutting position. 
 
 M117 Removing filament
