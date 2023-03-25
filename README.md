@@ -68,6 +68,13 @@ https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
 **4. Assemble**
 
 
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Cutting_lever_assemble.jpg)
+
+
+
+
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Cutting_lever_Touch_screw%20holder.jpg)
 
 
 
