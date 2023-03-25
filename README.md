@@ -61,9 +61,14 @@ Corner Block 2EA
 **3. STL Fils**
 
 
+The two stl files must be combined for the blade to work properly.
+
+
 (1)ERCF OMRON switch and Neodium Magectic
 
 https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
+
+
 
 
 (2) Cutting lever
