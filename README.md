@@ -2,11 +2,9 @@
 ERCF Filament Cutting Mod
 
 
-[![Video Label]()
-(https://www.youtube.com/watch?v=jHE_eaS_J6o&ab_channel=MrGoodman)
+https://www.youtube.com/watch?v=jHE_eaS_J6o&ab_channel=MrGoodman
 
-[![Video Label]()
-(https://www.youtube.com/watch?v=E3OkWK-ciag&ab_channel=MrGoodman)
+https://www.youtube.com/watch?v=E3OkWK-ciag&ab_channel=MrGoodman
 
 
 https://blog.naver.com/pure100kim/223006132448
