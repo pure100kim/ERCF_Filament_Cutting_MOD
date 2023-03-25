@@ -1,6 +1,11 @@
 # ERCF_Filament_Cutting_MOD
 ERCF Filament Cutting Mod
 
+
+https://www.youtube.com/watch?v=jHE_eaS_J6o&ab_channel=MrGoodman
+
+
+
 **1. Using software**
 
 I use ERCF software : https://github.com/moggieuk/ERCF-Software-V3
