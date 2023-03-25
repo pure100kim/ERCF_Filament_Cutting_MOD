@@ -35,7 +35,7 @@ https://ct5488.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000144370&NaPm=
 -. M3 Insert
 
 
-(4) 
+(4) ERCF_Cutting_lever_Touch_screw holder
 2020 Profile 50mm
 
 M5 Sprint Nun or T nut 3EA
