@@ -37,7 +37,9 @@ https://ct5488.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000144370&NaPm=
 
 -. M3*14mm 2EA
 
--. M3 Insert
+-. M3 Insert 3EA
+
+-. ballpoint pen spring  1EA
 
 
 (4) ERCF_Cutting_lever_Touch_screw holder
