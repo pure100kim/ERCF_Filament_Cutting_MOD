@@ -26,13 +26,25 @@ https://ct5488.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000144370&NaPm=
 
 (3) etc
 
--. M2*12 1EA
+-. M2*12mm 1EA
 
 -. M2 space
 
--. M3*14 2EA
+-. M3*14mm 2EA
 
 -. M3 Insert
+
+
+(4) 
+2020 Profile 50mm
+
+M5 Sprint Nun or T nut 3EA
+
+M5*30mm  1EA
+
+M5*8mm 4EA
+
+Corner Block 2EA
 
 
 
@@ -42,6 +54,14 @@ https://ct5488.com/goods/goods_view.php?inflow=naverPay&goodsNo=1000144370&NaPm=
 **3. STL Fils**
 
 
+(1)ERCF OMRON switch and Neodium Magectic 
+https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
+
+
+(2)
+
+
+(3) Cutting lever
 
 
 
