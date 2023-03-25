@@ -1,5 +1,10 @@
 # ERCF_Filament_Cutting_MOD
+
 ERCF Filament Cutting Mod
+
+The biggest effect is probably the cutting method, which can greatly reduce errors caused by filament spider webs.
+The fuzzy function can reduce tower size.
+
 
 
 https://www.youtube.com/watch?v=jHE_eaS_J6o&ab_channel=MrGoodman
