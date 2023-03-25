@@ -67,8 +67,12 @@ https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
 
 **4. Assemble**
 
+It is important teflon tube shape becase To ensure that the filament fits properly, it is necessary to shape it.
+
+
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Cutting_lever_assemble.jpg)
+
 
 
 
