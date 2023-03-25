@@ -92,6 +92,8 @@ It is important teflon tube shape becase To ensure that the filament fits proper
 
 Assemble it as shown in the picture below
 
+This is a lever operation holder for activating the cutting knob. It should be located on the left front side. If it is positioned at the back, it may interfere with the drag chain. If the user does not use the drag chain, it is also acceptable to install it at the far right back. The installation height can be adjusted.
+
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Cutting_lever_assemble.jpg)
 
 
