@@ -67,7 +67,7 @@ The (1)(2) two stl files must be combined for the blade to work properly.
 (1)ERCF OMRON switch and Neodium Magectic
 
 https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch
-
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/StealthBurner_Toolhead-Sensor_switch/blob/main/Picture/stealthburner_assembly.jpg)
 
 
 
