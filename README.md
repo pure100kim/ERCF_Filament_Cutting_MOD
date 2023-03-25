@@ -116,6 +116,9 @@ Include Filament cutting macro file in printer.cfg  as below
 If you want move _PARK location or wiper location, change the gcode end line.
 
 
+(Optinonal) Filament wiper 
+https://github.com/pure100kim/VORON_NOZZLE_WIPER/blob/main/README.md
+
 
 
 
