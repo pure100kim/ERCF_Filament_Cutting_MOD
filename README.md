@@ -27,7 +27,7 @@ https://smartstore.naver.com/2bitmall/products/5242626620
 
 (2) Art knife  diagonal Type  1ea
 
-Can buy via ali.
+Can buy same type knife via aliexpress.
 https://a.aliexpress.com/_mLzv8n4
 
 
