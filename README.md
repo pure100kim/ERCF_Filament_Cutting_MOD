@@ -38,7 +38,7 @@ Include Filament cutting macro file in printer.cfg  as below
 
 
 
-gcode:
+#copy gcode macro
 
 [gcode_macro FILAMENT_CUTTING]
 #Include FILAMENT CUTTING command in Pruds slice BEFOR TOOLCHANGE gcode box
