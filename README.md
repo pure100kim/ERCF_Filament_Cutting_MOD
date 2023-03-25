@@ -120,7 +120,7 @@ This is a lever operation holder for activating the cutting knob. It should be l
 
 Include Filament cutting macro file in printer.cfg  as below
 
-![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Filament_cutting_macro.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/ERCF_Filament_cutting_macro_.png)
 
 
 If you want move _PARK location or wiper location, change the gcode end line.
