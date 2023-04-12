@@ -2,7 +2,10 @@
 
 ERCF Filament Cutting Mod
 
-The biggest effect is probably the cutting method, which can greatly reduce errors caused by filament spider webs.
+The biggest effect is probably the cutting method, which can greatly reduce errors caused by filament spider webs. also It has the effect of eliminating the jam caused by shape of the end od the filament during moving between extruder and ercf.
+The thickness of the filament and shape solves the problem of travel distance de to friction.
+
+
 
 The fuzzy function can reduce tower size.
 
