@@ -157,7 +157,12 @@ G1 E-35 F3000
 
 
 
-    
+*8. Version Hsitory
+
+I really sorry about stl file that uploading wrong straight type cutter knife stl file. 
+
+Reuploading 45 degree cutter knife stl file. (5/02 2023)
+
 
 
 
