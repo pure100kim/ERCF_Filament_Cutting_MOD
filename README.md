@@ -166,8 +166,7 @@ I really sorry about stl file that uploading wrong straight type cutter knife st
 Reuploading 45 degree cutter knife stl file. (5/02 2023)
 
 
-
-
+![Image of ERCF Cutting Knife lever](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/Cutting%20Knife%2045.png)
 
 
 
