@@ -157,7 +157,9 @@ G1 E-35 F3000
 
 
 
-*8. Version Hsitory
+
+
+**8. Version Hsitory**
 
 I really sorry about stl file that uploading wrong straight type cutter knife stl file. 
 
