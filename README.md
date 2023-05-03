@@ -1,5 +1,6 @@
 # ERCF_Filament_Cutting_MOD
 
+
 ERCF Filament Cutting Mod
 
 The biggest effect is probably the cutting method, which can greatly reduce errors caused by filament spider webs. Friction and tangling caused by the shape of the filament end can occur. This problem can be resolved.
@@ -9,13 +10,29 @@ The biggest effect is probably the cutting method, which can greatly reduce erro
 The fuzzy function can reduce tower size.
 
 
-
 https://www.youtube.com/watch?v=jHE_eaS_J6o&ab_channel=MrGoodman
 
 https://www.youtube.com/watch?v=E3OkWK-ciag&ab_channel=MrGoodman
 
 
 https://blog.naver.com/pure100kim/223006132448
+
+
+
+
+**Version Hsitory**
+
+I really sorry about stl file that uploading wrong straight type cutter knife stl file. 
+
+Reuploading 45 degree cutter knife stl file. (02 May 2023)
+please forgive my mistake. hahaha
+
+![Image of ERCF Cutting Knife lever](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/Cutting%20Knife%2045.png)
+
+
+
+
+
 
 
 **1. Using software**
@@ -155,19 +172,6 @@ G92 E0
 G1 E-35 F3000
 
 
-
-
-
-
-**8. Version Hsitory**
-
-I really sorry about stl file that uploading wrong straight type cutter knife stl file. 
-
-
-Reuploading 45 degree cutter knife stl file. (5/02 2023)
-please forgive my mistake. hahaha
-
-![Image of ERCF Cutting Knife lever](https://github.com/pure100kim/ERCF_Filament_Cutting_MOD/blob/main/Photos/Cutting%20Knife%2045.png)
 
 
 
